@@ -66,7 +66,7 @@ The r-squared is: 0.036574085868667505 for Wind Speed vs Latitude
 
 th r-squared is worth using between 0 and 1 at around; using percentages > 30 or 40% confirms it may be a valid relationship to compare.
 For the Northern Hemisphere this is true for Max Temp vs Latitude 
-For the Southern Hemisphere this is true for Max Temp vs Latitude and Humidity vs Latitude.
+For the Southern Hemisphere this is true for Max Temp vs Latitude 
 
 
 Using the csv file created with the city information it was then used with Jupyter gmaps and the Google Places API 
